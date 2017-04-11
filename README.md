@@ -1,12 +1,10 @@
 # :tada: Youthweb Promotion Material
 
-Dieses Promotion Material wie Logos oder Sticker können für Flyer, Präsentationen oder Druck verwendet werden. F+r die Verwendung wird keine Erlaubnist benötigt.
+Dieses Promotion Material wie Logos oder Sticker können für Flyer, Präsentationen oder Druck verwendet werden. Für die Verwendung wird keine Erlaubnist benötigt.
 
 ## Logo
 
-![](Logos/yw-logo_400x400_blau.png)
-
-![](Logos/yw-logo_invert_426x477.png)
+![](Logos/yw-logo_400x400_blau.png) ![](Logos/yw-logo_invert_426x477.png)
 
 Das Logo ist weiß auf blau (#1c60a1). Mehr Logos findest du [hier](Logos).
 
